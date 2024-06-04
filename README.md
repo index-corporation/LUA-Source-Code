@@ -1,2 +1,2 @@
-# LUA-Source-Code
-Here is an open source code written in LUA
+# LUA Source Code
+Добро пожаловать в репозиторий **LUA Source Code**. Тут располагаются проекты с открытым исходным кодом на lua.
